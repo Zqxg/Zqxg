@@ -30,7 +30,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src=https://www.xiaohongshu.com/explore/66cadcc7000000001d01b80e?app_platform=android&ignoreEngage=true&app_version=8.69.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBnIe_flO53n3pFSjmRI7508FqZ9QKhu9nGsShBKw9YUI=&author_share=1&xhsshare=CopyLink&shareRedId=ODdFMTZJR0o2NzUyOTgwNjczOTdISD46&apptime=1737354349&share_id=6832cecc598c484f8ddb6dc9e0e45902&share_channel=copy_link" />
 
 <p>&emsp;&emsp;嗨，你好，我是小锅同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
