@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.printf(%22Hello%2C%20World!%22);小锅同学祝您今天愉快!&center=true&size=32"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.printf(%22Hello%2C%20World!%22);小锅同学祝您今天愉快!&center=true&size=18"> 
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
